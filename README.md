@@ -1,13 +1,22 @@
-# Parallax-scrolling
+# Parallax Effect Project
 
-Dear Interns,
+## Overview
 
-The task is to work with **Parallax scrolling** with a bit of **JS.**.
+This project is a part of my Internship at Limelight, and it demonstrates a parallax effect using HTML, CSS, and JavaScript. The parallax effect is achieved by creating fixed background elements that move at different speeds as the user scrolls, creating a visually engaging experience.
 
-To visualize the code you can use the online IDE: [CodePen (https://codepen.io).](https://codepen.io)
+## Files
 
-We need you to read/understand the code and to use your creativity to design your **own version** of parallax universe. **Enjoy!**
+- **index.html**: The main HTML file that structures the content and includes the necessary scripts and stylesheets.
 
-Should you have questions do not hesitate to contact us. We are open 24/7.
+- **styles.css**: The CSS file containing styles for the parallax effect, container, and content.
 
-(email: techlead@limelightr.org)
+- **script.js**: The JavaScript file handling the parallax effect based on the user's scroll.
+
+## Dependencies
+
+- [jQuery](https://jquery.com/): The project uses jQuery for simplifying DOM manipulation.
+
+## Credits
+
+- **Ahsan Ali**: Web Development Intern - 
+
